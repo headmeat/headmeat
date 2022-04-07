@@ -2,7 +2,7 @@
 
 <!--
 **headmeat/headmeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a href="https://opgc.me/#/users/headmeat" target="_blank"><img src="https://api.opgc.me/githubs/users/headmeat/tag/?theme=basic" /></a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://opgc.me/#/users/headmeat" target="_blank"><img src="https://api.opgc.me/githubs/users/headmeat/tag/?theme=basic" /></a>
