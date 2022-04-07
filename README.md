@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JAVA-007396? style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB? style=flat&logo=PYTHON&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Spark-E25A1C? style=flat&logo=SPARK&logoColor=green"/>
-<img src="https://img.shields.io/badge/Riot-D32936? style=flat&logo=RIOT&logoColor=red"/>
+<img src="https://img.shields.io/badge/Riot Games-D32936? style=flat&logo=Riot Games&logoColor=red"/>
 
 <a href="https://opgc.me/#/users/headmeat" target="_blank"><img src="https://api.opgc.me/githubs/users/headmeat/tag/?theme=basic" /></a>
 
