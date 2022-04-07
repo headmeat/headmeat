@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://opgc.me/#/users/headmeat" target="_blank"><img src="https://api.opgc.me/githubs/users/headmeat/tag/?theme=basic" /></a>
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=headmeat">
