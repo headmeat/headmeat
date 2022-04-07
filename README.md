@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheadmeat&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/headmeat)
 <img src="https://img.shields.io/badge/JAVA-007396? style=flat&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB? style=flat&logo=Python&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Python-3776AB? style=flat&logo=PYTHON&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/SPARK-E25A1C? style=flat&logo=SPARK&logoColor=green"/>
 
 <a href="https://opgc.me/#/users/headmeat" target="_blank"><img src="https://api.opgc.me/githubs/users/headmeat/tag/?theme=basic" /></a>
 
