@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/JAVA-007396? style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB? style=flat&logo=PYTHON&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Apache Spark-E25A1C? style=flat&logo=Apache Spark&logoColor=white"/>
