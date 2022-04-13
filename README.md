@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Riot Games-D32936? style=flat&logo=Riot Games&logoColor=white"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=headmeat&show_icons=true&theme=tokyonight)](https://github.com/headmeat/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=headmeat&layout=compact)](https://github.com/headmeat/github-readme-stats)
 <a href="https://opgc.me/#/users/headmeat" target="_blank"><img align='center' src="https://api.opgc.me/githubs/users/headmeat/tag/?theme=basic" /></a>
 
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=headmeat">
