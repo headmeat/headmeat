@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-6DB33F? style=flat&logo=Spring&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Python-3776AB? style=flat&logo=PYTHON&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Apache Spark-E25A1C? style=flat&logo=Apache Spark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Riot Games-D32936? style=flat&logo=Riot Games&logoColor=white"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=headmeat&show_icons=true&theme=tokyonight)](https://github.com/headmeat/github-readme-stats)
   
