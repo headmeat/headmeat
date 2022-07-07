@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <h3 align="left"><b>           💻 Tech Stack 💻</b></h3>
 <p align="left">
 <img src="https://img.shields.io/badge/JAVA-007396? style=flat&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F? style=flat&logo=Spring&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Python-3776AB? style=flat&logo=PYTHON&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Apache Hadoop-66CCFF? style=flat&logo=Hadoop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache Spark-E25A1C? style=flat&logo=Apache Spark&logoColor=white"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=headmeat&show_icons=true&theme=tokyonight)](https://github.com/headmeat/github-readme-stats)
